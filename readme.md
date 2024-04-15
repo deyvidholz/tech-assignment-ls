@@ -9,7 +9,13 @@ Most of the programming questions were solved using both PHP and Javascript.
 - To test PHP files, you can use an online php runner, such as **onlinephp.io**, run locally or access the link I provided in each of the .php files.
 - To test the SQL files, you can run a SQL Database (such as MariaDB, MySQL, Postges) locally and execute it in your terminal or use a SQL Client software, for example: phpMyAdmin, DBeaver, MySQL Workbench or similars. Be aware that you will need tables filled with data to see the query working.
 
+<br><br>
+
 Math assignments have my way of thinking and how I calculated it in a text file.
+
+<br><br>
+
+All PHP files has a comment with a link to **onlinephp.io**, this link contains the code ready to be executed.
 
 ### Process:
 
