@@ -1,0 +1,8 @@
+1. Soda = 13, Beer = 10, Total (Soda + Beer) = 23, 23 - 5 (people who drinks both) = 18
+Answer: 18.
+
+2. 15 min - 10 min = 5 min
+Answer: Sarah is actually 5 minutes early.
+
+3. 4 pizzas = 100%, 1 pizza = 25%.
+Answer: D. "Take four and pay for three"
